@@ -7,3 +7,6 @@ If you want to run the script, then
 address in the host machine's browser
    - Website URL: - http://192.168.56.29/login
    - Use login credential: admin_vp/admin_vp
+
+ Output Application would look like this
+![vprofile login page](https://github.com/abhijith0078/Deploy_JavaApplication_IAC_Local/assets/56915507/7312f1c2-3de6-45d8-a203-e32350d0e14e)
