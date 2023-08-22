@@ -46,8 +46,10 @@ systemctl daemon-reload
 systemctl start tomcat
 systemctl enable tomcat
 
-git clone -b main https://github.com/hkhcoder/vprofile-project.git
-cd vprofile-project
+git clone https://github.com/abhijith0078/JavaApplication_IAC_Local/
+cd JavaApplication_IAC_Local
+cd vprofile-project-main/
+
 mvn install
 systemctl stop tomcat
 sleep 20
